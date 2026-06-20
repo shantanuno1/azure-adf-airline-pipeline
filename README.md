@@ -164,7 +164,6 @@ This repository includes 14 project screenshots covering:
 
 ```text
 datasets/
-docs/
 screenshots/
 README.md
 ```
